@@ -1,4 +1,4 @@
-# world_cup_database
+# world_cup_database_postgreSQL
 
 The games.csv contains a list of all games of the final three rounds of the World Cup tournament since 2014. It includes the year of each game, the round of the game, the winner, their opponent, and the number of goals each team scored.
 
